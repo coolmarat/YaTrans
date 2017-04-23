@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YaTrans</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="title_translate">Перевод</string>
+    <string name="title_history">История</string>
+    <string name="title_list_favorites">Избранное</string>
+</resources>
